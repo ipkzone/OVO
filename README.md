@@ -2,14 +2,18 @@
 Tools OVO.ID
 
 
-<center><img src="ovo.jpeg" alt="OVO"></center>
+<center><img src="newOvo.png" alt="OVO"></center>
 
 Fiture Tools OVO
 - [x] Login - GetToken
-- [x] Registrasi
+- [x] Registrasi<br>
+      - Manual Registrasi<br>
+      - Auto Registrasi TurboOTP<br>
+      - Auto Registrasi OTPCepat<br>
 - [x] Qris Payment
 - [x] Checking Saldo
 - [x] Checking Transaksi
+- [x] Checking Account
 Info
 - [x] Save token
 - [x] Get Token
